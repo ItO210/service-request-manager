@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  nginx:
+    image: nginx:latest
+    ports:
+      - "9999:80"
+    volumes:
+      - ${VITE_DIST_PATH}:/usr/share/nginx/html
+    restart: always
