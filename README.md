@@ -20,7 +20,7 @@ This repository is a modified reupload of the original project developed for CIC
 
 ## Contents
 
-- **CicataNexusFrontend/**: React + Vite + Tailwind + shadcn frontend.
+- **CicataNexusFrontend/**: React + Vite + Tailwind + Radix.
 - (Backend not included in this archival version; original used MongoDB + Express.)
 
 ## Preview
