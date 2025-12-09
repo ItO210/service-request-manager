@@ -4,7 +4,7 @@ Cicata Nexus is a web application developed for CICATA Unidad Morelos, a researc
 
 The goal was to create an automated system that allows users to submit requests quickly and efficiently, removing the need for manual confirmations. It also helps the institution optimize inventory and material availability, reducing conflicts and improving planning.
 
-This project was developed on **June 2025**.
+This project was developed in **June 2025**.
 
 ## Disclaimer
 
