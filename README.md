@@ -24,7 +24,6 @@ This repository is a modified reupload of the original project developed for CIC
 - (Backend not included in this archival version; original used MongoDB + Express.)
 
 ## Preview
-## Preview
 ![1](https://github.com/user-attachments/assets/798ff3b2-cc78-456d-9f7f-c673b868547a)
 ![2](https://github.com/user-attachments/assets/5eae849f-451a-4eff-9ee0-e2476c5ad6c6)
 ![3](https://github.com/user-attachments/assets/6c49837f-7e67-4cc1-9397-3eb5cf260d7a)
